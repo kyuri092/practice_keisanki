@@ -1,0 +1,15 @@
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\bin\Debug\netcoreapp3.1\ゲーム作成の練習.exe
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\bin\Debug\netcoreapp3.1\ゲーム作成の練習.deps.json
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\bin\Debug\netcoreapp3.1\ゲーム作成の練習.runtimeconfig.json
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\bin\Debug\netcoreapp3.1\ゲーム作成の練習.runtimeconfig.dev.json
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\bin\Debug\netcoreapp3.1\ゲーム作成の練習.dll
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\bin\Debug\netcoreapp3.1\ゲーム作成の練習.pdb
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\obj\Debug\netcoreapp3.1\ゲーム作成の練習.Form1.resources
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\obj\Debug\netcoreapp3.1\ゲーム作成の練習.csproj.GenerateResource.cache
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\obj\Debug\netcoreapp3.1\ゲーム作成の練習.AssemblyInfoInputs.cache
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\obj\Debug\netcoreapp3.1\ゲーム作成の練習.AssemblyInfo.cs
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\obj\Debug\netcoreapp3.1\ゲーム作成の練習.csproj.CoreCompileInputs.cache
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\obj\Debug\netcoreapp3.1\ゲーム作成の練習.dll
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\obj\Debug\netcoreapp3.1\ゲーム作成の練習.pdb
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\obj\Debug\netcoreapp3.1\ゲーム作成の練習.genruntimeconfig.cache
+C:\Users\kyuri\source\repos\ゲーム作成の練習\ゲーム作成の練習\obj\Debug\netcoreapp3.1\ゲーム作成の練習.csprojAssemblyReference.cache
